@@ -223,11 +223,27 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "14a86cd0-7dfe-492d-b2b0-5e6501d15015",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "b93c4da7-f80c-4548-9c3e-be842f796608",
             "Value": {
                 "id": "f93b2fee-2056-4cdf-9231-c49264e09048",
                 "resourcePath": "rooms\/Village\/Village.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "3944667b-8adb-42f4-be57-52c444c6a72d",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
             }
         },
         {
